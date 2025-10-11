@@ -1,4 +1,3 @@
-# Replace the text below to customize your site
 site_name: Erandi Estrada - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Erandi Estrada
@@ -6,7 +5,6 @@ copyright: Copyleft 2023 "Erandi Estrada" - GNU Free Documentation License
 repo_name: 'Erandi Estrada : MDEF Portfolio'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
-
 
 nav:
   - MDEF:
@@ -19,19 +17,11 @@ nav:
           - Term 2:
               - digi: term1/01-Bootcamp.md
               - studio: term1/01-Bootcamp.md
-
   - Projects: projects/index.md
-
   - About me: about/me.md
-
-
-
-
-
 
 extra:
   social:
-    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
@@ -42,7 +32,6 @@ extra:
       link: "https://www.linkedin.com/in/"
     - icon: fontawesome/brands/github
       link: "https://github.com/"
-
 
 theme:
   name: material
@@ -56,9 +45,9 @@ theme:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
+    - navigation.tabs          # activa tabs horizontales
+    - navigation.tabs.sticky   # pestañas fijas al hacer scroll
+    - navigation.top           # barra en la parte superior
 
 plugins:
   - search
@@ -78,13 +67,10 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
   - md_in_html
   - admonition
   - codehilite
   - footnotes
-  - toc:
-      permalink: true
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -108,4 +94,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
   
