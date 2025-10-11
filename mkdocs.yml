@@ -56,10 +56,6 @@ theme:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    - instant
-    - navigation.expand
-    - navigation.indexes
-    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
