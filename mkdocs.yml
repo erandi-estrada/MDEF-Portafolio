@@ -59,7 +59,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
 
 plugins:
   - search
