@@ -46,7 +46,6 @@ theme:
   favicon: images/favicon.svg
   features:
     - navigation.tabs          # activa tabs horizontales
-    - navigation.tabs.sticky   # pestañas fijas al hacer scroll
     - navigation.top           # barra en la parte superior
 
 plugins:
