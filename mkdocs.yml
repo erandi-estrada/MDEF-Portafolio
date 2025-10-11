@@ -43,14 +43,13 @@ extra:
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
+
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: blue
     accent: purple
   font:
-    # See available fonts at https://fonts.google.com/
     text: Be Vietnam
     code: Cutive Mono
   icon:
@@ -61,8 +60,6 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
