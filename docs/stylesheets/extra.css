@@ -50,8 +50,8 @@
 }
 
 .md-tabs {
-  justify-content: flex-end;
-  margin-right: 2rem;
+  justify-content: flex-start; /* Alinea a la izquierda */
+  margin-right: 0;             /* Opcional, elimina espacio extra */
 }
 
 /* Opcional: cambia el tamaño o color del texto del menú */
@@ -63,4 +63,14 @@
 
 .md-tabs__link:hover {
   color: var(--md-accent-fg-color);
+}
+
+/* Forzar que las pestañas sean horizontales */
+.md-header-nav {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+}
+
+.md-header-nav .md-nav__item {
+    display: inline-block !important;
 }
