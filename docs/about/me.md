@@ -1,11 +1,13 @@
 # Erandi Estrada
 
-I’m a product & design practitioner passionate about the intersection of **design, technology and sustainability**. I graduated in Design & Technology and I’m expanding my skills through a Master in Design for Emergent Futures, exploring immersive experiences, biomaterials and human-centred solutions.
+I’m an industrial designer passionate about how **technology, materials, and human experience** come together to create meaningful design. My work explores the balance between **craft and innovation**, from handmade processes to digital fabrication.
 
-I enjoy tackling messy problems and turning early ideas into tangible prototypes. My work combines research-led thinking with hands-on making: from material experiments and physical prototyping to digital flows and interface thinking. I thrive in collaborative, multidisciplinary teams and I love learning through doing.
+I’m currently studying the *Master in Design for Emergent Futures* at IAAC and Fab Lab Barcelona, where I’m expanding my practice toward more sustainable, experimental, and human-centred approaches. My projects often explore themes like **modularity, wellbeing, and social connection**, while combining research, prototyping, and storytelling.
 
-**What I do:** user-centred product design, prototyping, materials research, and creative systems that consider social and environmental impact.
+I love challenges that require both creativity and strategy — from designing lifestyle objects and lighting to developing speculative and systemic design concepts.
 
-**Skills & tools:** Fusion 360 · Rhino · SolidWorks · Adobe Creative Suite · CNC / laser / manual fabrication · prototyping with microcontrollers · basic UI/UX workflows
+**Focus areas:** sustainable design · material exploration · product development · design research · experience design
 
-If you’d like to collaborate or see project case studies, feel free to get in touch.
+**Tools & skills:** Adobe Creative Suite · Rhinoceros · Fusion 360 · SolidWorks · CNC / laser cutting / 3D printing · collaborative design methods
+
+You can discover more about my projects and design journey at [eradesign.portfolio.site](https://eradesign.portfolio.site/).
