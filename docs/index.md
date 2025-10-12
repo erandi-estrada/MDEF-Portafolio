@@ -9,11 +9,11 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="grid cards" markdown>
 
-- [Initial Ideas](project/project.md)__  
+- [Initial Ideas](project/project.md)
   ![Initial Ideas](../images/initial-ideas.jpg)
   <br>Early explorations that became the foundation of future projects.
 
-- [Bootcamp](term1/01-Bootcamp.md)__  
+- [Bootcamp](term1/01-Bootcamp.md)  
   ![Bootcamp](../images/bootcamp.jpg)
   <br>Hands-on learning, rapid prototyping, and collaboration.
 
