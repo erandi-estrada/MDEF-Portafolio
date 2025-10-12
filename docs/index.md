@@ -33,7 +33,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="term1/02-Atlas of Weak Signals.md">
-    <img src="images/atlas.jpg" alt="Atlas of Weak Signals">
+    <img src="https://via.placeholder.com/300x200/4CAF50/white?text=Test+Image" alt="Test"> alt="Atlas of Weak Signals">
     <div class="project-info">
       <h3>Atlas of Weak Signals</h3>
       <p>Researching emerging signals and future-oriented thinking.</p>
