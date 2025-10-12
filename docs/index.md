@@ -1,5 +1,20 @@
-## Welcome
+# MDEF Portfolio
 
-![](../images/perezoso.jpg)
+<div class="grid cards" markdown>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- __[Initial Ideas](../project/project.md)__
+    ![Initial Ideas](../images/initial-ideas.jpg)
+
+- __[Bootcamp](../term1/01-Bootcamp.md)__
+    ![Bootcamp](../images/bootcamp.jpg)
+
+- __[Atlas of Weak Signals](../term1/02-Atlas of Weak Signals.md)__
+    ![Atlas of Weak Signals](../images/atlas.jpg)
+
+- __[Digi](../term1/01-Bootcamp.md)__
+    ![Digi](../images/digi.jpg)
+
+- __[Studio](../term1/01-Bootcamp.md)__
+    ![Studio](../images/studio.jpg)
+
+</div>
