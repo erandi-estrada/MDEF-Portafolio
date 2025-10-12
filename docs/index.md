@@ -2,19 +2,19 @@
 
 <div class="grid cards" markdown>
 
-- __[Initial Ideas](../project/project.md)__
-    ![Initial Ideas](../images/initial-ideas.jpg)
+- [![Initial Ideas](../images/initial-ideas.jpg)](project/project.md){: .md-button }
+  **Initial Ideas**
 
-- __[Bootcamp](../term1/01-Bootcamp.md)__
-    ![Bootcamp](../images/bootcamp.jpg)
+- [![Bootcamp](../images/bootcamp.jpg)](term1/01-Bootcamp.md){: .md-button }
+  **Bootcamp**
 
-- __[Atlas of Weak Signals](../term1/02-Atlas of Weak Signals.md)__
-    ![Atlas of Weak Signals](../images/atlas.jpg)
+- [![Atlas of Weak Signals](../images/atlas.jpg)](term1/02-Atlas of Weak Signals.md){: .md-button }
+  **Atlas of Weak Signals**
 
-- __[Digi](../term1/01-Bootcamp.md)__
-    ![Digi](../images/digi.jpg)
+- [![Digi](../images/digi.jpg)](term1/01-Bootcamp.md){: .md-button }
+  **Digi**
 
-- __[Studio](../term1/01-Bootcamp.md)__
-    ![Studio](../images/studio.jpg)
+- [![Studio](../images/studio.jpg)](term1/01-Bootcamp.md){: .md-button }
+  **Studio**
 
 </div>
