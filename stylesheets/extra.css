@@ -100,3 +100,61 @@
 .md-tabs__link:hover, .md-nav__link:hover {
     color: var(--md-accent-fg-color);
 }
+
+/* Image Grid Cards */
+.grid.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.grid.cards > * {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 0;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.grid.cards > *:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+}
+
+.grid.cards img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.grid.cards .md-button {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    background: white;
+    color: rgb(32, 32, 32);
+    font-weight: 600;
+    font-size: 1.1rem;
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    border-radius: 0;
+}
+
+.grid.cards .md-button:hover {
+    background: #f5f5f5;
+    color: var(--md-typeset-a-color);
+}
+
+/* Ensure the grid works well on mobile */
+@media (max-width: 768px) {
+    .grid.cards {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
