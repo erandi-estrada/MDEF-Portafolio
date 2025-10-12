@@ -9,23 +9,23 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="grid cards" markdown>
 
-- :material-lightbulb-on: __[Initial Ideas](project/project.md)__  
+- [Initial Ideas](project/project.md)__  
   ![Initial Ideas](../images/initial-ideas.jpg)
   <br>Early explorations that became the foundation of future projects.
 
-- :material-rocket-launch: __[Bootcamp](term1/01-Bootcamp.md)__  
+- [Bootcamp](term1/01-Bootcamp.md)__  
   ![Bootcamp](../images/bootcamp.jpg)
   <br>Hands-on learning, rapid prototyping, and collaboration.
 
-- :material-map-search: __[Atlas of Weak Signals](term1/02-Atlas of Weak Signals.md)__  
+- __[Atlas of Weak Signals](term1/02-Atlas of Weak Signals.md)__  
   ![Atlas of Weak Signals](../images/atlas.jpg)
   <br>Researching emerging signals and future-oriented thinking.
 
-- :material-memory: __[Digi](term1/01-Bootcamp.md)__  
+-  __[Digi](term1/01-Bootcamp.md)__  
   ![Digi](../images/digi.jpg)
   <br>Digital tools and interactive systems.
 
-- :material-palette: __[Studio](term1/01-Bootcamp.md)__  
+- __[Studio](term1/01-Bootcamp.md)__  
   ![Studio](../images/studio.jpg)
   <br>Design, experimentation, and material explorations.
 
