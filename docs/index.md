@@ -1,7 +1,9 @@
-# MDEF Portfolio
+# MDEF Projects
 
-Bienvenida a la sección de proyectos del **MDEF Portfolio**.  
-Aquí podrás explorar las diferentes etapas, ideas y prototipos desarrollados a lo largo del programa.
+Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.  
+This space documents the ideas, experiments, and reflections that shaped my learning process — from early prototypes to collective explorations.
+
+Join me as I navigate the projects, collaborations, and discoveries that defined this stage of my path as a designer.
 
 ---
 
@@ -9,23 +11,23 @@ Aquí podrás explorar las diferentes etapas, ideas y prototipos desarrollados a
 
 - :material-lightbulb-on: __[Initial Ideas](project/project.md)__  
   ![Initial Ideas](../images/initial-ideas.jpg)
-  <br>Exploraciones iniciales que sentaron las bases de los proyectos.
+  <br>Early explorations that became the foundation of future projects.
 
 - :material-rocket-launch: __[Bootcamp](term1/01-Bootcamp.md)__  
   ![Bootcamp](../images/bootcamp.jpg)
-  <br>Aprendizaje intensivo, prototipado rápido y colaboración.
+  <br>Hands-on learning, rapid prototyping, and collaboration.
 
 - :material-map-search: __[Atlas of Weak Signals](term1/02-Atlas of Weak Signals.md)__  
   ![Atlas of Weak Signals](../images/atlas.jpg)
-  <br>Investigación sobre tendencias emergentes y contextos futuros.
+  <br>Researching emerging signals and future-oriented thinking.
 
 - :material-memory: __[Digi](term1/01-Bootcamp.md)__  
   ![Digi](../images/digi.jpg)
-  <br>Exploración digital y herramientas interactivas.
+  <br>Digital tools and interactive systems.
 
 - :material-palette: __[Studio](term1/01-Bootcamp.md)__  
   ![Studio](../images/studio.jpg)
-  <br>Diseño, creación y materialización de ideas.
+  <br>Design, experimentation, and material explorations.
 
 </div>
 
