@@ -8,7 +8,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - MDEF: index.md  # or whatever your main MDEF page is
-  - Projects: projects/index.md
+  - Projects: projects/Portfolio.md
   - About me: about/me.md
 
 extra:
