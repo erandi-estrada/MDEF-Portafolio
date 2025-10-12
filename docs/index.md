@@ -1,17 +1,18 @@
-# MDEF Projects - Image Test
+# MDEF Projects - Path Test
 
-## Test 1: Imagen que SÍ funciona
-![](../images/perezoso.jpg)
+## Test de diferentes paths:
 
-## Test 2: Imagen con path nuevo
+### Path 1: ../images/
 ![](../images/initial-ideas.jpg)
 
-## Test 3: Imagen online
-![Online Image](https://via.placeholder.com/300x200/4CAF50/white?text=Test+Image)
+### Path 2: images/
+![](images/initial-ideas.jpg)
 
-## Test 4: Lista de archivos en images/
-- ¿Existe initial-ideas.jpg?
-- ¿Existe bootcamp.jpg? 
-- ¿Existe atlas.jpg?
-- ¿Existe digi.jpg?
-- ¿Existe studio.jpg?
+### Path 3: ./images/
+![](./images/initial-ideas.jpg)
+
+### Path 4: /images/
+![](/images/initial-ideas.jpg)
+
+### Path 5: absoluto desde root
+![](/mdef-template/docs/images/initial-ideas.jpg)
