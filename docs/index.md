@@ -1,18 +1,38 @@
-# MDEF Projects - Path Test
+# MDEF Projects
 
-## Test de diferentes paths:
+Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.  
+This space documents the ideas, experiments, and reflections that shaped my learning process — from early prototypes to collective explorations.
 
-### Path 1: ../images/
-![](../images/initial-ideas.jpg)
+Join me as I navigate the projects, collaborations, and discoveries that defined this stage of my path as a designer.
 
-### Path 2: images/
-![](images/initial-ideas.jpg)
+---
 
-### Path 3: ./images/
-![](./images/initial-ideas.jpg)
+## My Projects
 
-### Path 4: /images/
-![](/images/initial-ideas.jpg)
+<div class="grid cards" markdown>
 
-### Path 5: absoluto desde root
-![](/mdef-template/docs/images/initial-ideas.jpg)
+- __[Initial Ideas](project/project.md)__  
+  ![Initial Ideas](../images/initial-ideas.jpg)  
+  Early explorations that became the foundation of future projects.
+
+- __[Bootcamp](term1/01-Bootcamp.md)__  
+  ![Bootcamp](../images/bootcamp.jpg)  
+  Hands-on learning, rapid prototyping, and collaboration.
+
+- __[Atlas of Weak Signals](term1/02-Atlas of Weak Signals.md)__  
+  ![Atlas of Weak Signals](../images/atlas.jpg)  
+  Researching emerging signals and future-oriented thinking.
+
+- __[Digi](term1/01-Bootcamp.md)__  
+  ![Digi](../images/digi.jpg)  
+  Digital tools and interactive systems.
+
+- __[Studio](term1/01-Bootcamp.md)__  
+  ![Studio](../images/studio.jpg)  
+  Design, experimentation, and material explorations.
+
+</div>
+
+---
+
+*Last update: {{ git_revision_date_localized }}*
