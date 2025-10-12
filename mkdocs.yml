@@ -7,16 +7,7 @@ site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
-  - MDEF:
-      - Master Project:
-          - Initial Ideas: project/project.md
-      - Reflections:
-          - Term 1:
-              - Bootcamp: term1/01-Bootcamp.md
-              - Atlas of Weak Signals: term1/02-Atlas of Weak Signals.md
-          - Term 2:
-              - digi: term1/01-Bootcamp.md
-              - studio: term1/01-Bootcamp.md
+  - MDEF: index.md  # or whatever your main MDEF page is
   - Projects: projects/index.md
   - About me: about/me.md
 
