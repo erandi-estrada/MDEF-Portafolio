@@ -5,7 +5,7 @@ This space documents the ideas, experiments, and reflections that shaped my lear
 
 ---
 
-## My Projects
+## My Journey
 
 <div class="grid cards" markdown>
 
