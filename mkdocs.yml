@@ -38,6 +38,8 @@ theme:
   features:
     - navigation.tabs          # activa tabs horizontales
     - navigation.top           # barra en la parte superior
+    - content.icons            # habilita iconos
+    
 
 plugins:
   - search
