@@ -13,7 +13,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="project/project.md">
-    <img src="../images/initial-ideas.jpg" alt="Initial Ideas">
+    <img src="images/initial-ideas.jpg" alt="Initial Ideas">
     <div class="project-info">
       <h3>Initial Ideas</h3>
       <p>Early explorations that became the foundation of future projects.</p>
@@ -23,7 +23,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="term1/01-Bootcamp.md">
-    <img src="../images/bootcamp.jpg" alt="Bootcamp">
+    <img src="images/bootcamp.jpg" alt="Bootcamp">
     <div class="project-info">
       <h3>Bootcamp</h3>
       <p>Hands-on learning, rapid prototyping, and collaboration.</p>
@@ -33,7 +33,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="term1/02-Atlas of Weak Signals.md">
-    <img src="../images/atlas.jpg" alt="Atlas of Weak Signals">
+    <img src="images/atlas.jpg" alt="Atlas of Weak Signals">
     <div class="project-info">
       <h3>Atlas of Weak Signals</h3>
       <p>Researching emerging signals and future-oriented thinking.</p>
@@ -43,7 +43,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="term1/01-Bootcamp.md">
-    <img src="../images/digi.jpg" alt="Digi">
+    <img src="images/digi.jpg" alt="Digi">
     <div class="project-info">
       <h3>Digi</h3>
       <p>Digital tools and interactive systems.</p>
@@ -53,7 +53,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 
 <div class="project-card">
   <a href="term1/01-Bootcamp.md">
-    <img src="../images/studio.jpg" alt="Studio">
+    <img src="images/studio.jpg" alt="Studio">
     <div class="project-info">
       <h3>Studio</h3>
       <p>Design, experimentation, and material explorations.</p>
