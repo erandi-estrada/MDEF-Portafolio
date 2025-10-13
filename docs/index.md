@@ -1,26 +1,75 @@
-# DEBUG - Image Test
+# MDEF Projects
 
-## Test 1: Imagen con path absoluto desde root del sitio
-![Test Absolute](https://erandi-estrada.github.io/MDEF-Portfolio/images/initial-ideas.jpg)
+Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.
 
-## Test 2: Imagen con path relativo
-![Test Relative](images/initial-ideas.jpg)
+---
 
-## Test 3: Imagen online
-![Test Online](https://via.placeholder.com/300x200/FF0000/FFFFFF?text=ONLINE+IMAGE)
+## My Journey
 
-## Test 4: HTML directo con estilo inline
-<div style="border: 3px solid red; padding: 20px; margin: 20px 0;">
-    <img src="images/initial-ideas.jpg" alt="Test HTML" style="width: 300px; height: 200px; border: 3px solid blue;">
-    <div style="padding: 10px;">
-        <h3 style="color: green;">TEST CARD HTML</h3>
-        <p>This should show with red border and blue image border</p>
-    </div>
+<div class="image-grid">
+
+<div class="grid-item">
+    <a href="project/project.md" class="grid-link">
+        <div class="image-placeholder" style="background: #2196F3; color: white; height: 180px; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+            INITIAL IDEAS IMAGE
+        </div>
+        <div class="grid-text">
+            <h4>Initial Ideas</h4>
+            <p>Early explorations that became the foundation of future projects.</p>
+        </div>
+    </a>
 </div>
 
-## Test 5: Verificación de archivos
-- initial-ideas.jpg: ¿existe?
-- bootcamp.jpg: ¿existe?
-- atlas.jpg: ¿existe?
-- digi.jpg: ¿existe?
-- studio.jpg: ¿existe?
+<div class="grid-item">
+    <a href="term1/01-Bootcamp.md" class="grid-link">
+        <div class="image-placeholder" style="background: #4CAF50; color: white; height: 180px; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+            BOOTCAMP IMAGE
+        </div>
+        <div class="grid-text">
+            <h4>Bootcamp</h4>
+            <p>Hands-on learning, rapid prototyping, and collaboration.</p>
+        </div>
+    </a>
+</div>
+
+<div class="grid-item">
+    <a href="term1/02-Atlas of Weak Signals.md" class="grid-link">
+        <div class="image-placeholder" style="background: #FF9800; color: white; height: 180px; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+            ATLAS IMAGE
+        </div>
+        <div class="grid-text">
+            <h4>Atlas of Weak Signals</h4>
+            <p>Researching emerging signals and future-oriented thinking.</p>
+        </div>
+    </a>
+</div>
+
+<div class="grid-item">
+    <a href="term1/01-Bootcamp.md" class="grid-link">
+        <div class="image-placeholder" style="background: #9C27B0; color: white; height: 180px; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+            DIGI IMAGE
+        </div>
+        <div class="grid-text">
+            <h4>Digi</h4>
+            <p>Digital tools and interactive systems.</p>
+        </div>
+    </a>
+</div>
+
+<div class="grid-item">
+    <a href="term1/01-Bootcamp.md" class="grid-link">
+        <div class="image-placeholder" style="background: #F44336; color: white; height: 180px; display: flex; align-items: center; justify-content: center; font-weight: bold;">
+            STUDIO IMAGE
+        </div>
+        <div class="grid-text">
+            <h4>Studio</h4>
+            <p>Design, experimentation, and material explorations.</p>
+        </div>
+    </a>
+</div>
+
+</div>
+
+---
+
+*Last update: {{ git_revision_date_localized }}*
