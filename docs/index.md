@@ -12,7 +12,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 <div class="cards-grid">
 
 <div class="card card-1">
-    <a href="project/project.md" class="card-link">
+    <a href="project/project" class="card-link">
         <div class="card-content">
             <h3>Initial Ideas</h3>
             <div class="card-image">
@@ -24,7 +24,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 </div>
 
 <div class="card card-2">
-    <a href="term1/01-Bootcamp.md" class="card-link">
+    <a href="term1/01-Bootcamp" class="card-link">
         <div class="card-content">
             <h3>Bootcamp</h3>
             <div class="card-image">
@@ -36,7 +36,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 </div>
 
 <div class="card card-3">
-    <a href="term1/02-Atlas of Weak Signals.md" class="card-link">
+    <a href="term1/02-Atlas of Weak Signals" class="card-link">
         <div class="card-content">
             <h3>Atlas of Weak Signals</h3>
             <div class="card-image">
@@ -48,7 +48,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 </div>
 
 <div class="card card-4">
-    <a href="digi/digi.md" class="card-link">
+    <a href="digi/digi" class="card-link">
         <div class="card-content">
             <h3>Digi</h3>
             <div class="card-image">
@@ -60,7 +60,7 @@ Join me as I navigate the projects, collaborations, and discoveries that defined
 </div>
 
 <div class="card card-5">
-    <a href="studio/studio.md" class="card-link">
+    <a href="studio/studio" class="card-link">
         <div class="card-content">
             <h3>Studio</h3>
             <div class="card-image">
