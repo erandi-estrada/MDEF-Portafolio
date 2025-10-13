@@ -1,11 +1,3 @@
-# MDEF Projects
-
-Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.
-
----
-
-## My Journey
-
 <div class="cards-grid">
 
 <div class="card card-1">
@@ -69,7 +61,3 @@ Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)
 </div>
 
 </div>
-
----
-
-*Last update: {{ git_revision_date_localized }}*
