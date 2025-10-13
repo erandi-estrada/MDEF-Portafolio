@@ -10,7 +10,7 @@ This space documents the ideas, experiments, and reflections that shaped my lear
 <div class="grid cards" markdown>
 
 -   **Initial Ideas**  
-    ![Initial Ideas](images/initial-ideas.jpg 
+    ![Initial Ideas](images/initial-ideas.jpg) 
     Early explorations that became the foundation of future projects.  
     [Read more](project/project.md){ .md-button }
 
