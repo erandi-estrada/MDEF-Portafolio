@@ -6,53 +6,63 @@ Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)
 
 ## My Journey
 
-<div class="image-grid">
+<div class="cards-grid">
 
-<div class="grid-item">
-    <a href="project/project.md" class="grid-link">
-        <img src="images/initial-ideas.jpg" alt="Initial Ideas">
-        <div class="grid-text">
-            <h4>Initial Ideas</h4>
+<div class="card card-1">
+    <a href="project/project.md" class="card-link">
+        <div class="card-content">
+            <h3>Initial Ideas</h3>
+            <div class="card-image">
+                <img src="images/initial-ideas.jpg" alt="Initial Ideas">
+            </div>
             <p>Early explorations that became the foundation of future projects.</p>
         </div>
     </a>
 </div>
 
-<div class="grid-item">
-    <a href="term1/01-Bootcamp.md" class="grid-link">
-        <img src="images/bootcamp.jpg" alt="Bootcamp">
-        <div class="grid-text">
-            <h4>Bootcamp</h4>
+<div class="card card-2">
+    <a href="term1/01-Bootcamp.md" class="card-link">
+        <div class="card-content">
+            <h3>Bootcamp</h3>
+            <div class="card-image">
+                <img src="images/bootcamp.jpg" alt="Bootcamp">
+            </div>
             <p>Hands-on learning, rapid prototyping, and collaboration.</p>
         </div>
     </a>
 </div>
 
-<div class="grid-item">
-    <a href="term1/02-Atlas of Weak Signals.md" class="grid-link">
-        <img src="images/atlas.jpg" alt="Atlas of Weak Signals">
-        <div class="grid-text">
-            <h4>Atlas of Weak Signals</h4>
+<div class="card card-3">
+    <a href="term1/02-Atlas of Weak Signals.md" class="card-link">
+        <div class="card-content">
+            <h3>Atlas of Weak Signals</h3>
+            <div class="card-image">
+                <img src="images/atlas.jpg" alt="Atlas of Weak Signals">
+            </div>
             <p>Researching emerging signals and future-oriented thinking.</p>
         </div>
     </a>
 </div>
 
-<div class="grid-item">
-    <a href="term1/01-Bootcamp.md" class="grid-link">
-        <img src="images/digi.jpg" alt="Digi">
-        <div class="grid-text">
-            <h4>Digi</h4>
+<div class="card card-4">
+    <a href="term1/01-Bootcamp.md" class="card-link">
+        <div class="card-content">
+            <h3>Digi</h3>
+            <div class="card-image">
+                <img src="images/digi.jpg" alt="Digi">
+            </div>
             <p>Digital tools and interactive systems.</p>
         </div>
     </a>
 </div>
 
-<div class="grid-item">
-    <a href="term1/01-Bootcamp.md" class="grid-link">
-        <img src="images/studio.jpg" alt="Studio">
-        <div class="grid-text">
-            <h4>Studio</h4>
+<div class="card card-5">
+    <a href="term1/01-Bootcamp.md" class="card-link">
+        <div class="card-content">
+            <h3>Studio</h3>
+            <div class="card-image">
+                <img src="images/studio.jpg" alt="Studio">
+            </div>
             <p>Design, experimentation, and material explorations.</p>
         </div>
     </a>
