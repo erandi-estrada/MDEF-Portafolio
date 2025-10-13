@@ -10,27 +10,27 @@ This space documents the ideas, experiments, and reflections that shaped my lear
 <div class="grid cards" markdown>
 
 -   **Initial Ideas**  
-    ![Initial Ideas](../images/initial-ideas.jpg)  
+    ![Initial Ideas](images/initial-ideas.jpg 
     Early explorations that became the foundation of future projects.  
     [Read more](project/project.md){ .md-button }
 
 -   **Bootcamp**  
-    ![Bootcamp](../images/bootcamp.jpg)  
+    ![Bootcamp](images/bootcamp.jpg) 
     Hands-on learning, rapid prototyping, and collaboration.  
     [Read more](term1/01-Bootcamp.md){ .md-button }
 
 -   **Atlas of Weak Signals**  
-    ![Atlas of Weak Signals](../images/atlas.jpg)  
+    ![Atlas](images/atlas.jpg)  
     Researching emerging signals and future-oriented thinking.  
     [Read more](term1/02-Atlas of Weak Signals.md){ .md-button }
 
 -   **Digi**  
-    ![Digi](../images/digi.jpg)  
+    ![Digi](images/digi.jpg)  
     Digital tools and interactive systems.  
     [Read more](term1/01-Bootcamp.md){ .md-button }
 
 -   **Studio**  
-    ![Studio](../images/studio.jpg)  
+    ![Studio](images/studio.jpg)  
     Design, experimentation, and material explorations.  
     [Read more](term1/01-Bootcamp.md){ .md-button }
 
