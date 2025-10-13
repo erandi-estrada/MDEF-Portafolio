@@ -7,52 +7,27 @@ This space documents the ideas, experiments, and reflections that shaped my lear
 
 ## My Journey
 
-<div class="grid-cards">
+<div class="simple-cards">
 
-<div class="card">
-    <img src="images/initial-ideas.jpg" alt="Initial Ideas">
-    <div class="card-content">
-        <h3>Initial Ideas</h3>
-        <p>Early explorations that became the foundation of future projects.</p>
-        <a href="project/project.md" class="card-button">Read more</a>
-    </div>
-</div>
+[![Initial Ideas](images/initial-ideas.jpg)](project/project.md)  
+**Initial Ideas**  
+Early explorations that became the foundation of future projects.
 
-<div class="card">
-    <img src="images/bootcamp.jpg" alt="Bootcamp">
-    <div class="card-content">
-        <h3>Bootcamp</h3>
-        <p>Hands-on learning, rapid prototyping, and collaboration.</p>
-        <a href="term1/01-Bootcamp.md" class="card-button">Read more</a>
-    </div>
-</div>
+[![Bootcamp](images/bootcamp.jpg)](term1/01-Bootcamp.md)  
+**Bootcamp**  
+Hands-on learning, rapid prototyping, and collaboration.
 
-<div class="card">
-    <img src="images/atlas.jpg" alt="Atlas of Weak Signals">
-    <div class="card-content">
-        <h3>Atlas of Weak Signals</h3>
-        <p>Researching emerging signals and future-oriented thinking.</p>
-        <a href="term1/02-Atlas of Weak Signals.md" class="card-button">Read more</a>
-    </div>
-</div>
+[![Atlas of Weak Signals](images/atlas.jpg)](term1/02-Atlas of Weak Signals.md)  
+**Atlas of Weak Signals**  
+Researching emerging signals and future-oriented thinking.
 
-<div class="card">
-    <img src="images/digi.jpg" alt="Digi">
-    <div class="card-content">
-        <h3>Digi</h3>
-        <p>Digital tools and interactive systems.</p>
-        <a href="term1/01-Bootcamp.md" class="card-button">Read more</a>
-    </div>
-</div>
+[![Digi](images/digi.jpg)](term1/01-Bootcamp.md)  
+**Digi**  
+Digital tools and interactive systems.
 
-<div class="card">
-    <img src="images/studio.jpg" alt="Studio">
-    <div class="card-content">
-        <h3>Studio</h3>
-        <p>Design, experimentation, and material explorations.</p>
-        <a href="term1/01-Bootcamp.md" class="card-button">Read more</a>
-    </div>
-</div>
+[![Studio](images/studio.jpg)](term1/01-Bootcamp.md)  
+**Studio**  
+Design, experimentation, and material explorations.
 
 </div>
 
