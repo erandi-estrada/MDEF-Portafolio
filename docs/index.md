@@ -1,36 +1,39 @@
-# MDEF Projects
+# DEBUG - Grid Test
 
-Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.  
-This space documents the ideas, experiments, and reflections that shaped my learning process — from early prototypes to collective explorations.
+## Test de imágenes individuales:
+![Test 1](images/initial-ideas.jpg)
+![Test 2](images/bootcamp.jpg)
 
 ---
 
-## My Journey
+## Test del grid con bordes de colores:
 
-<div class="simple-cards">
+<div class="grid-cards" style="border: 2px solid red; padding: 20px;">
 
-[![Initial Ideas](images/initial-ideas.jpg)](project/project.md)  
-**Initial Ideas**  
-Early explorations that became the foundation of future projects.
+<div class="card" style="border: 2px solid blue;">
+    <img src="images/initial-ideas.jpg" alt="Test" style="border: 2px solid green;">
+    <div class="card-content">
+        <h3>TEST CARD 1</h3>
+        <p>This should show as a card with green border around image</p>
+        <a href="project/project.md" class="card-button">Test button</a>
+    </div>
+</div>
 
-[![Bootcamp](images/bootcamp.jpg)](term1/01-Bootcamp.md)  
-**Bootcamp**  
-Hands-on learning, rapid prototyping, and collaboration.
-
-[![Atlas of Weak Signals](images/atlas.jpg)](term1/02-Atlas of Weak Signals.md)  
-**Atlas of Weak Signals**  
-Researching emerging signals and future-oriented thinking.
-
-[![Digi](images/digi.jpg)](term1/01-Bootcamp.md)  
-**Digi**  
-Digital tools and interactive systems.
-
-[![Studio](images/studio.jpg)](term1/01-Bootcamp.md)  
-**Studio**  
-Design, experimentation, and material explorations.
+<div class="card" style="border: 2px solid blue;">
+    <img src="images/bootcamp.jpg" alt="Test" style="border: 2px solid green;">
+    <div class="card-content">
+        <h3>TEST CARD 2</h3>
+        <p>Second test card</p>
+        <a href="term1/01-Bootcamp.md" class="card-button">Test button</a>
+    </div>
+</div>
 
 </div>
 
 ---
 
-*Last update: {{ git_revision_date_localized }}*
+## Lo que deberíamos ver:
+- ✅ **Borde ROJO** alrededor del grid completo
+- ✅ **Borde AZUL** alrededor de cada tarjeta  
+- ✅ **Borde VERDE** alrededor de cada imagen
+- ✅ **Texto y botones** dentro de cada tarjeta
