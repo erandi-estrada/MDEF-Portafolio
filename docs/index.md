@@ -1,7 +1,18 @@
+# MDEF Projects
+
+Welcome to my journey through the **Master in Design for Emergent Futures (MDEF)**, a program by [Fab Lab Barcelona](https://mdef.fablabbcn.org/) and IAAC.  
+This space documents the ideas, experiments, and reflections that shaped my learning process — from early prototypes to collective explorations.
+
+Join me as I navigate the projects, collaborations, and discoveries that defined this stage of my path as a designer.
+
+---
+
+## My Journey
+
 <div class="cards-grid">
 
 <div class="card card-1">
-    <a href="project/project.md" class="card-link">
+    <a href="./project/project.md" class="card-link">
         <div class="card-content">
             <h3>Initial Ideas</h3>
             <div class="card-image">
@@ -13,7 +24,7 @@
 </div>
 
 <div class="card card-2">
-    <a href="term1/01-Bootcamp.md" class="card-link">
+    <a href="./term1/01-Bootcamp.md" class="card-link">
         <div class="card-content">
             <h3>Bootcamp</h3>
             <div class="card-image">
@@ -25,7 +36,7 @@
 </div>
 
 <div class="card card-3">
-    <a href="term1/02-Atlas of Weak Signals.md" class="card-link">
+    <a href="./term1/02-Atlas of Weak Signals.md" class="card-link">
         <div class="card-content">
             <h3>Atlas of Weak Signals</h3>
             <div class="card-image">
@@ -37,7 +48,7 @@
 </div>
 
 <div class="card card-4">
-    <a href="term1/01-Bootcamp.md" class="card-link">
+    <a href="./term1/01-Bootcamp.md" class="card-link">
         <div class="card-content">
             <h3>Digi</h3>
             <div class="card-image">
@@ -49,7 +60,7 @@
 </div>
 
 <div class="card card-5">
-    <a href="term1/01-Bootcamp.md" class="card-link">
+    <a href="./term1/01-Bootcamp.md" class="card-link">
         <div class="card-content">
             <h3>Studio</h3>
             <div class="card-image">
@@ -61,3 +72,7 @@
 </div>
 
 </div>
+
+---
+
+*Last update: {{ git_revision_date_localized }}*
