@@ -6,7 +6,7 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32); /* Variante ligera, también gris oscuro */
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif; /* Fuente para títulos */
     --mdc-typography-font-family: 'Be Vietnam', sans-serif; /* Fuente global */
-    --md-typeset-a-color: rgb(12, 240, 190); /* Color de los enlaces (turquesa) */
+    --md-typeset-a-color: rgb(32, 32, 32); /* Color de los enlaces (turquesa) */
 }
 
 .hide-scroll-bar {
@@ -176,15 +176,6 @@
     text-align: center; /* Centrado */
 }
 
-/* Forzar texto negro en los títulos y descripciones de las tarjetas */
-.card-content h3,
-.card-content p {
-    color: rgb(32, 32, 32) !important; /* Negro */
-}
-
-.card-link {
-    color: inherit !important; /* Evita que los enlaces sean verdes */
-}
 
 /* RESPONSIVE: EN MÓVIL (pantallas pequeñas) */
 @media (max-width: 768px) {
