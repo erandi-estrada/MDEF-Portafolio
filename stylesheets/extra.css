@@ -176,6 +176,15 @@
     text-align: center; /* Centrado */
 }
 
+/* Forzar texto negro en los títulos y descripciones de las tarjetas */
+.card-content h3,
+.card-content p {
+    color: rgb(32, 32, 32) !important; /* Negro */
+}
+
+.card-link {
+    color: inherit !important; /* Evita que los enlaces sean verdes */
+}
 
 /* RESPONSIVE: EN MÓVIL (pantallas pequeñas) */
 @media (max-width: 768px) {
