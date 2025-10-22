@@ -138,7 +138,7 @@
 
 /* CONTENIDO INTERNO DE LA TARJETA */
 .card-content {
-    padding: 1.5rem; /* Espaciado interno */
+    padding: 2.5rem; /* Espaciado interno */
 }
 
 /* TÍTULO DENTRO DE LA TARJETA */
@@ -155,7 +155,7 @@
     margin: 1rem 0; /* Espacio arriba y abajo */
     padding: 8px; /* Borde interior */
     border-radius: 8px; /* Esquinas redondeadas */
-    border: 3px solid; /* Borde de color (varía según la tarjeta) */
+    border: 3px solid; /* Borde */
 }
 
 /* IMAGEN EN LA TARJETA */
@@ -170,7 +170,7 @@
 /* DESCRIPCIÓN DE LA TARJETA */
 .card-content p {
     margin: 1rem 0 0 1.5; /* Solo margen superior */
-    color: #666; /* Gris medio */
+    color: #000000; /* Gris medio */
     font-size: 0.95rem; /* Tamaño del texto */
     line-height: 1.5; /* Altura de línea cómoda */
     text-align: center; /* Centrado */
