@@ -143,7 +143,7 @@
 
 /* TÍTULO DENTRO DE LA TARJETA */
 .card-content h3 {
-    margin: 0 0 1rem 1.5rem; /* Espacio solo abajo */
+    margin: 0 1.5rem 1rem 1.5rem; /* Espacio solo abajo */
     color: rgb(32, 32, 32); /* Texto gris oscuro */
     font-size: 1.3rem; /* Tamaño del título */
     font-weight: 600; /* Negrita */
@@ -169,7 +169,7 @@
 
 /* DESCRIPCIÓN DE LA TARJETA */
 .card-content p {
-    margin: 1rem 0 0 1.5rem; /* Solo margen superior */
+    margin: 1rem 1.5rem 0 1.5rem; /* Solo margen superior */
     color: #000000; /* Gris medio */
     font-size: 0.95rem; /* Tamaño del texto */
     line-height: 1.5; /* Altura de línea cómoda */
