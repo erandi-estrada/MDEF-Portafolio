@@ -169,15 +169,11 @@
 
 /* DESCRIPCIÓN DE LA TARJETA */
 .card-content p {
-    margin: 1rem 0 0 0; /* Solo margen superior */
+    margin: 1rem 0 0 1.5; /* Solo margen superior */
     color: #666; /* Gris medio */
     font-size: 0.95rem; /* Tamaño del texto */
     line-height: 1.5; /* Altura de línea cómoda */
     text-align: center; /* Centrado */
-}
-
-.cards-grid .card:nth-child(odd) .card-content {
-    padding-left: 2.5rem; /* Aumenta el espacio interior izquierdo */
 }
 
 /* RESPONSIVE: EN MÓVIL (pantallas pequeñas) */
