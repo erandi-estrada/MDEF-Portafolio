@@ -169,7 +169,7 @@
 
 /* DESCRIPCIÓN DE LA TARJETA */
 .card-content p {
-    margin: 1rem 0 0 1.5; /* Solo margen superior */
+    margin: 1rem 0 0 1.5rem; /* Solo margen superior */
     color: #000000; /* Gris medio */
     font-size: 0.95rem; /* Tamaño del texto */
     line-height: 1.5; /* Altura de línea cómoda */
