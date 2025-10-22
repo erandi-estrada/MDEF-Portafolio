@@ -176,6 +176,9 @@
     text-align: center; /* Centrado */
 }
 
+.cards-grid .card:nth-child(odd) .card-content {
+    padding-left: 2.5rem; /* Aumenta el espacio interior izquierdo */
+}
 
 /* RESPONSIVE: EN MÓVIL (pantallas pequeñas) */
 @media (max-width: 768px) {
