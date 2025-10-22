@@ -101,7 +101,7 @@
 }
 
 .md-tabs__link:hover, .md-nav__link:hover {
-    color: var(--md-accent-fg-color); /* Turquesa al pasar el mouse */
+    color: var(--md-accent-fg-color); 
 }
 
 
@@ -143,7 +143,7 @@
 
 /* TÍTULO DENTRO DE LA TARJETA */
 .card-content h3 {
-    margin: 0 0 1rem 0; /* Espacio solo abajo */
+    margin: 0 0 1rem 1.5rem; /* Espacio solo abajo */
     color: rgb(32, 32, 32); /* Texto gris oscuro */
     font-size: 1.3rem; /* Tamaño del título */
     font-weight: 600; /* Negrita */
